@@ -1,5 +1,4 @@
-# AccuKnox DevOps Assessment
-
+# wisecow-kubernetes-deployment
 ## Overview
 
 This repository contains my submission for the AccuKnox DevOps Assessment.
@@ -277,4 +276,4 @@ All assignment objectives including challenge goals were successfully implemente
 
 GitHub: [https://github.com/kamlesh-suryawanshi](https://github.com/kamlesh-suryawanshi)
 
-Repository: [https://github.com/kamlesh-suryawanshi/accuknox-devops-assessment](https://github.com/kamlesh-suryawanshi/accuknox-devops-assessment)
+Repository: [https://github.com/kamlesh-suryawanshi/accuknox-devops-assessment](https://github.com/kamlesh-suryawanshi/-wisecow-kubernetes-deployment)
